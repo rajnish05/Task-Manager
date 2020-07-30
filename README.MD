@@ -1,7 +1,7 @@
 This is Simple Task Management Application, where Task creation, updation and deletion of task can be performed.
 
 ` Steps for run Application ` <br />
- `1. >>` git clone `https://github.com/rajnish05/Task-Manager.git` <br />
+ `1. >>` git clone https://github.com/rajnish05/Task-Manager.git <br />
  `2. >>` cd Task-Manager                     `go to project directory` <br />
  `3. >>` npm install                         `Install Application Dependency ` <br />
  `4. >>` npm start                           `Run The Application` <br />
