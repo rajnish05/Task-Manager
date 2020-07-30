@@ -7,8 +7,10 @@ This is Simple Task Management Application, where Task creation, updation and de
  `4. >>` npm start                           `Run The Application` <br />
  `5. >>` Goto: http://localhost:3000/
 
-` List of operation can be perfomed in this application ` <br />
-`1. >>` Create New Task <br />
-`2. >>` Get The list of Task <br />
-`3. >>` Update The existing Task <br />
-`4. >>` Deletion of the Task
+<!-- List of operation can be perfomed in this application  -->
+    <img src = '/images/home.png' alt = 'home'>
+
+1. >> Get The list of Task
+2. >> Create New Task
+3. >> Update The existing Task
+4. >> Deletion of the Task
