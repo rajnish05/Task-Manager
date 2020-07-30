@@ -1,0 +1,16 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+ }
+
+ .text-red{
+     color:red
+ }
+
+ .m-t-n{
+     margin:15px 2px 21px 0
+ }
