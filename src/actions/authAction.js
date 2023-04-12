@@ -8,7 +8,7 @@ export const addTask = (task) => {
         dispatch({ type: ADD_TASK, payload: task })
         history.push(`/tasks`)
     }
-}
+} 
 
 // GET list of Task 
 export const getTask = () => dispatch => {
